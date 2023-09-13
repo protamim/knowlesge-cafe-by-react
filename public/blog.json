@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://tinyurl.com/y94jted6",
+        "author_name": "John Doe",
+        "author_img": "https://cutt.ly/JwzZOtQW",
+        "posted_date": "2023-09-11",
+        "reading_time": 10,
+        "post_title": "Exploring AI in Healthcare",
+        "hashtag": ["#AI", "#Healthcare", "#Technology"]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/vjkrjjS/kitchen-icons-set-heart-shape-1085-397.jpg",
+        "author_name": "Jane Smith",
+        "author_img": "https://tinyurl.com/protamim",
+        "posted_date": "2023-09-10",
+        "reading_time": 8,
+        "post_title": "The Art of Cooking",
+        "hashtag": ["#Cooking", "#Food", "#Recipes"]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://tinyurl.com/myu247ub",
+        "author_name": "Alice Johnson",
+        "author_img": "https://tinyurl.com/ymducze6",
+        "posted_date": "2023-09-09",
+        "reading_time": 12,
+        "post_title": "Traveling on a Budget",
+        "hashtag": ["#Travel", "#Budget", "#Adventure"]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/ZGJDR1p/space-exploration-flat-composition-1284-20322.jpg",
+        "author_name": "David Brown",
+        "author_img": "https://tinyurl.com/bdew7ma6",
+        "posted_date": "2023-09-08",
+        "reading_time": 15,
+        "post_title": "The Future of Space Exploration",
+        "hashtag": ["#Space", "#Exploration", "#Science"]
+    }
+]
